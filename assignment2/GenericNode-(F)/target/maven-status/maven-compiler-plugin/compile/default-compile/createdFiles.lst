@@ -1,0 +1,4 @@
+genericnode/GenericNode$Responder.class
+genericnode/GenericNode.class
+genericnode/GenericNode$ClientHandler.class
+genericnode/RMI.class
